@@ -75,4 +75,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [1185-day-of-the-week](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
