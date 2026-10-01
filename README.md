@@ -22,6 +22,7 @@
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1600-throne-inheritance) |
+| [1603-design-parking-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
