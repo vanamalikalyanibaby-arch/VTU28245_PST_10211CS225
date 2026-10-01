@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1600-throne-inheritance) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
@@ -67,11 +69,13 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [1603-design-parking-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1603-design-parking-system) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
@@ -83,4 +87,20 @@
 | [1154-day-of-the-year](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1360-number-of-days-between-two-dates) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
