@@ -7,6 +7,7 @@
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1600-throne-inheritance) |
+| [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
+| [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
+| [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -61,4 +64,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1603-design-parking-system) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
