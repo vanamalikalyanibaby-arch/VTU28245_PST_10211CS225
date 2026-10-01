@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
@@ -54,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Simulation
@@ -67,5 +69,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
