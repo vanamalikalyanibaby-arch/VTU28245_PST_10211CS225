@@ -38,6 +38,7 @@
 | [1470-shuffle-the-array](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |
