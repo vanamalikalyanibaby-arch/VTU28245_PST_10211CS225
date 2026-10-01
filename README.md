@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1360-number-of-days-between-two-dates) |
@@ -74,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
