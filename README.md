@@ -34,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
+| [1732-find-the-highest-altitude](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
