@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0347-top-k-frequent-elements) |
@@ -117,4 +118,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
