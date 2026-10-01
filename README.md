@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1600-throne-inheritance) |
 ## Tree
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1600-throne-inheritance) |
 ## Array
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1472-design-browser-history) |
+## String
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/vanamalikalyanibaby-arch/VTU28245_PST_10211CS225/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
